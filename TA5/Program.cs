@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Enter file name 123");
+﻿Console.WriteLine("Enter file name:");
 var fileName = Console.ReadLine();
 if (fileName == "person1")
 {

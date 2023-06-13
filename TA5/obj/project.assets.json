@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\TA5.csproj",
+      "projectUniqueName": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\TA5\\TA5\\TA5.csproj",
       "projectName": "TA5",
-      "projectPath": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\TA5.csproj",
+      "projectPath": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\TA5\\TA5\\TA5.csproj",
       "packagesPath": "C:\\Users\\hogue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\obj\\",
+      "outputPath": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\TA5\\TA5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hogue\\AppData\\Roaming\\NuGet\\NuGet.Config",
